@@ -1,2 +1,2 @@
 # hello-world
-Ambigious and unprecedented projects
+Ambigious and unprecedented project
